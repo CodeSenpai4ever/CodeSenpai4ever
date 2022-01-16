@@ -2,7 +2,7 @@
 I'm a student developer. I mainly program in python but also can C#, HTML, CSS. You can contact me via 
 <ul>
   <li>Discord: Hikikomori 4 ever#6969</li>
-  <a href="">Mail</a>
+  <a href="mailto:admin@codesenpai.de">Mail</a>
 </ul>
 
 ### Some statistics about me and my activity on GitHub: 
