@@ -1,7 +1,7 @@
 # Hey, welcome on my GitHub!
 I'm a student developer. I mainly program in python but also can C#, HTML, CSS. You can contact me via 
 <ul>
-  <li>Discord: CodeSenpai#6969</li>
+  <li>Discord: CodeSenpai</li>
   <li><a href="mailto:apps@codesenpai.de">Mail</a></li>  
 </ul>
 
