@@ -2,7 +2,7 @@
 I'm a student developer. I mainly program in python but also can C#, HTML, CSS. You can contact me via 
 <ul>
   <li>Discord: CodeSenpai</li>
-  <li><a href="mailto:apps@codesenpai.de">Mail</a></li>  
+  <li><a href="mailto:contact@codesenpai.dev">Mail</a></li>  
 </ul>
 
 ### Some statistics about me and my activity on GitHub: 
