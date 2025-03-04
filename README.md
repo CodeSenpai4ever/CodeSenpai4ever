@@ -5,7 +5,7 @@ University Student and Developer
 --------------------------------
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [(Under Construction)](http://codesenpai.dev)
+* 🖥️  See my socials at [](http://me.codesenpai.dev)
 * ✉️  You can contact me at [contact@codesenpai.dev](mailto:contact@codesenpai.dev)
 * 🧠  I'm learning for my boring university lectures.
 * 🤝  I'm open to collaborating on Discord Bots, Games, Minecraft Mods.
