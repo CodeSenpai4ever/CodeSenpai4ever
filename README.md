@@ -9,7 +9,8 @@ University Student and Developer
 * ✉️  You can contact me at [contact@codesenpai.dev](mailto:contact@codesenpai.dev)
 * 🧠  I'm learning for my boring university lectures.
 * 🤝  I'm open to collaborating on Discord Bots, Games, Minecraft Mods.
-* ⚡  I like reading Mangas (currently read over 16k Chapters already)
+* 🏳️‍⚧️  I'm Nonbinary and Trans
+* 🚩  161 FCK NZS
 
 ### Skills
 
@@ -22,12 +23,3 @@ University Student and Developer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/575068589346914314" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/codesenpai4ever" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/senpai_code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/codesenpai4ever" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/codesenpai4ever"><img src="https://github-readme-stats.vercel.app/api?username=codesenpai4ever&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesenpai4ever's GitHub stats" /></a>
-
-
-<a href="https://github.com/codesenpai4ever" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesenpai4ever&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
